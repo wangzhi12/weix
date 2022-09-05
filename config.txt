@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "bc3d3b47475cbc8874c83b585ea7d45b",
 # 模板消息id
-"template_id": "sufXxVrCN7_m--Qb7GLwLjWbU6ifEIf6McQhbnFFqUA",
+"template_id": "ZgXEuSr1BBoS5uz43pzBccu99-7y29nqSdEiexHi-38",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["ooV2d5xhKsT3W-L_7vHeUFhQ_qtE","ooV2d5yia_eDKGt4hqyuI4aHc84M"],
 
@@ -18,6 +18,8 @@
 "region": "益阳",
 # 生日
 "birthday1": {"name": "伍慧辉", "birthday": "2003-07-04"},
+# 生日
+"birthday2": {"name": "王智", "birthday": "2002-04-06"},
 # 在一起的日子，格式同上
 "love_date": "2021-12-19",
 # 金句中文，如果为空，默认会读取金山的每日金句
